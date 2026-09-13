@@ -1,0 +1,8 @@
+﻿models/language_detector_model.pkl
+models/language_detector_vectorizer.pkl
+best_sentiment_model.pt
+@"
+models/language_detector_model.pkl
+models/language_detector_vectorizer.pkl
+best_sentiment_model.pt
+"@ | Out-File -Encoding utf8 .gitignore
